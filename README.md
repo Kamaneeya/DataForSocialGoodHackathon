@@ -8,7 +8,7 @@ This challenge aims to address the looming issue and to create sustainable plans
 <h1>Prompt</h1>
 Target and analyze the rainfall and weather patterns in the state of Telangana
 
-<h1>Team Name : Tech Curious</h1>
+<h3>Team Name : Tech Curious</h3>
 
 <h1>Team Members</h1>
 Keerthana Pravallika Samudrala<br >
