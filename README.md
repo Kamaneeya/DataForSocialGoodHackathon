@@ -1,7 +1,6 @@
 # Data For Social Good Hackathon
 
-<h1>Theme</h1>
-<h2>SDG 13 Climate Action</h2>
+<h1>Theme : SDG 13 Climate Action</h1>
 Agriculture is pivotal to the state of Telangana as it accounts for 16% of its industry. Due to rapid change in the climate this is causing there to be a disruption in the weather patterns.
 This challenge aims to address the looming issue and to create sustainable plans.
 
